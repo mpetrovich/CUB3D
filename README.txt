@@ -1,6 +1,9 @@
 CUB3D
 
-A Java-based 3D graphics & modeling engine.
+A Java-based 3D graphics & modeling engine I wrote back in college. It features:
+ • Isometric and pseudo-perspective camera modes
+ • Wireframe and solid fill modes
+ • Basic polygon/object grouping
 
 HOW TO RUN
 
