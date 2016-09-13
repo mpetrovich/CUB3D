@@ -1,12 +1,14 @@
 CUB3D
 =====
 
-A Java-based 3D graphics & modeling engine I wrote from scratch* back in college. It features:
+A Java-based 3D graphics & modeling engine I wrote from scratch* back in college in order to visualize STL and MPP (machine path-planning) CAD files for a nano-fabrication team at the University of Central Florida.
+
+Features:
 - Isometric and pseudo-perspective camera modes
 - Wireframe and solid fill modes
 - Basic polygon/object grouping
 
-* from scratch means _literally_ from scratch. I rolled my own naïve isometric & perspective 3D renderer instead of using any OpenGL/DirectX/other 3D rendering libraries. Why? Probably to see if & how I could do it, but mostly for the lulz (at my own expense).
+* from scratch means _literally_ from scratch. I rolled my own (very) naïve isometric & perspective 3D renderer instead of using any OpenGL/DirectX/other 3D rendering libraries, mostly to see if & how I could do it.
 
 <img width="1552" alt="screenshot 2016-09-12 22 44 11" src="https://cloud.githubusercontent.com/assets/1235062/18460145/14ea0fd0-793d-11e6-8f7e-ad0052e4a8b1.png">
 <img width="1552" alt="screenshot 2016-09-12 22 45 44" src="https://cloud.githubusercontent.com/assets/1235062/18460147/14eb7ec4-793d-11e6-9fab-11d2c3078820.png">
@@ -17,7 +19,7 @@ A Java-based 3D graphics & modeling engine I wrote from scratch* back in college
 Usage
 -----
 1. Run `CUB3D 0.2.5.jar` by double-clicking it.
-2. Click "Load" and select a file to load from the "data" directory. Some files may take longer to load than others, so be patient! A good place to start is `cubes.stl`.
+2. Click "Load" and select a file to load from the [/data](https://github.com/mpetrovich/CUB3D/tree/master/data) directory. Some files may take longer to load than others, so be patient! A good place to start is [`cubes.stl`](https://github.com/mpetrovich/CUB3D/tree/master/data/cubes.stl).
 
 Controls:
 - Rotate camera = Click + Drag
