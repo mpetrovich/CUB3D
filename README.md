@@ -8,7 +8,7 @@ Features:
 - Wireframe and solid fill modes
 - Basic polygon/object grouping
 
-* from scratch means _literally_ from scratch. I rolled my own (very) naïve isometric & perspective 3D renderer instead of using any OpenGL/DirectX/other 3D rendering libraries, mostly to see if & how I could do it.
+*from scratch means _literally_ from scratch. I rolled my own (very) naïve isometric & perspective 3D renderer instead of using any OpenGL/DirectX/other 3D rendering libraries, mostly to see if & how I could do it.
 
 <img width="1552" alt="screenshot 2016-09-12 22 44 11" src="https://cloud.githubusercontent.com/assets/1235062/18460145/14ea0fd0-793d-11e6-8f7e-ad0052e4a8b1.png">
 <img width="1552" alt="screenshot 2016-09-12 22 45 44" src="https://cloud.githubusercontent.com/assets/1235062/18460147/14eb7ec4-793d-11e6-9fab-11d2c3078820.png">
