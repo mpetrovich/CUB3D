@@ -1,7 +1,7 @@
 CUB3D
 =====
 
-A Java-based 3D graphics & modeling engine I wrote from scratch* back in college in order to visualize STL and MPP (machine path-planning) CAD files for a nano-fabrication team at the University of Central Florida.
+A Java-based 3D graphics & modeling engine I wrote from scratch* back in high school and college in order to visualize STL and MPP (machine path-planning) CAD files for a nano-fabrication team at the University of Central Florida.
 
 Features:
 - Isometric and pseudo-perspective camera modes
